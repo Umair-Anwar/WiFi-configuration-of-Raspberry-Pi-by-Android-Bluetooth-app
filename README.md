@@ -7,4 +7,4 @@ Raspberry Pi python code and android app to configure the WiFi of Raspberry Pi b
 3.  Pair your mobile with raspberry pi's Bluetooth.
 4.  Configure the Wi-Fi via app.
 
-#Cheers!
+# Cheers!
